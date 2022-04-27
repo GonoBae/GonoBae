@@ -18,13 +18,14 @@
 
 <br/>
 
-
+<div align=middle>
 <div align=middle><h1>📄 Study</h1></div>
 
 <!--GitHub Stats-->
 <img align='' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true", width = 400, height = 300>
 <!--Top Langs-->
 <img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight", width = 400, height = 300>
+</div>
 
 <div align=middle>
 <div align=middle><h1>📞 Contacts</h1></div>
