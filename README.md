@@ -3,7 +3,7 @@
 
 <!--Badges-->
 ### activity
-<a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-색코드?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
+<a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=이미지 이름&logoColor=white"/></a>
 
 ### Hi there 👋 Here is What I'm Working On!!
 
