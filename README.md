@@ -8,7 +8,7 @@
 
 ### Used at least once
 <img src="https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=black">
-<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=black">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=c++&logoColor=black">
 <img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=black">
 
 ### Hi there 👋 Here is What I'm Working On!!
