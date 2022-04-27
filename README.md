@@ -8,7 +8,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 
 
-<div align=center><h1><div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30" /></div> STACKS</h1></div>
+<div align=center><img src="https://techstack-generator.vercel.app/prettier-icon.svg" alt="icon" width="30" height="30" /></div> STACKS</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
   <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
