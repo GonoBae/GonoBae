@@ -13,10 +13,12 @@
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
-  
+
 <div align=left><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
-  ![Stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
+![GonoBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonoBae&show_icons=true&theme=tokyonight)
+<div align="center"> src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true"
+  ![Stats]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
   
 <div align=left><h1>📞 Contacts</h1></div>
