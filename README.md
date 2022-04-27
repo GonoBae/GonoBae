@@ -19,4 +19,4 @@
 
 ![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
+<img align='middle' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
