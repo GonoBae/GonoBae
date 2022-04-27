@@ -14,9 +14,8 @@
 <img src="https://img.shields.io/badge/CSharp-007396?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white">
-
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 ### Hi there 👋 Here is What I'm Working On!!
 
 ![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
-<img align='middle' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
