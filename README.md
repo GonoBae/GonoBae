@@ -15,10 +15,10 @@
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
   
 <div align=left><h1>📄 Study</h1></div>
-![GonoBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
+<!--GitHub Stats-->
+  ![Stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
   
 <div align=left><h1>📞 Contacts</h1></div>
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white", width = "150" height = "40"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white", width = "150" height = "40"/></a>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username={github GonoBae}&hide_title=true&show_icons=true&include_all_commits=true&disable_animations=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
