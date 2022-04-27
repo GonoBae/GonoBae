@@ -3,6 +3,7 @@
 ### Hi there 👋 Here is What I'm Working On!!
 <!--Hits--> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GonoBae&count_bg=%23099DD7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![followers](https://img.shields.io/github/followers/GonoBae?style=social)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 
