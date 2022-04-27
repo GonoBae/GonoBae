@@ -11,7 +11,7 @@
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white">
 
-![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
 
 <!--Hits-->
