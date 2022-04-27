@@ -8,10 +8,9 @@
 ### activity
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
-### Used  as the main
+<div align=center><h1>📚 STACKS</h1></div>
 <img src="https://img.shields.io/badge/Unity-critical?style=for-the-badge&logo=Unity&logoColor=white"></a> 
 <img src="https://img.shields.io/badge/C-critical?style=for-the-badge&logo=C&logoColor=white"></a> 
-### Used at least once
 <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 
