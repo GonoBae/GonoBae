@@ -4,7 +4,6 @@
 <!--Hits--> 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GonoBae&count_bg=%23099DD7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 ![followers](https://img.shields.io/github/followers/GonoBae?style=social)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qldrhqorhsh@gmail.com)](qldrhqorhsh@gmail.com)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 
@@ -16,7 +15,7 @@
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
 </div>
 
-<div align=left><h1>📄 Study</h1></div>
+<div align=middle><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
 <img align='middle' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
 <!--Top Langs-->
