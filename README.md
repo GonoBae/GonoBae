@@ -10,7 +10,7 @@
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
-<img src="https://img.shields.io/badge/Unity-critical?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
 <img src="https://img.shields.io/badge/CSharp-critical?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-critical?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-critical?style=for-the-badge&logo=C&logoColor=white">
