@@ -6,6 +6,10 @@
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
 
+### Used at least once
+<img src="https://img.shields.io/badge/Unity-blue?style=for-the-badge&logo=Unity&logoColor=black">
+<img src="https://img.shields.io/badge/C++-blue?style=for-the-badge&logo=C++&logoColor=black">
+<img src="https://img.shields.io/badge/C-blue?style=for-the-badge&logo=C&logoColor=black">
 
 ### Hi there 👋 Here is What I'm Working On!!
 
