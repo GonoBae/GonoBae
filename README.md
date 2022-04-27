@@ -6,7 +6,6 @@
 
 <!--Badges-->
 ### activity
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
 
@@ -21,3 +20,4 @@
 
 ![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
+<img align='middle' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
