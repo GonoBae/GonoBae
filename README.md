@@ -10,16 +10,17 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
-<img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
-<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />  
-<img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
+  <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
+  <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
+  <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
+  <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 </div>
 
 <br/>
 
-<div align=middle>
+
 <div align=middle><h1>📄 Study</h1></div>
+<div align=middle>
 <!--GitHub Stats-->
 <img align='' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true", width = 500, height = 300>
 <!--Top Langs-->
