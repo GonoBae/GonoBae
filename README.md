@@ -7,6 +7,7 @@
 [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=qldrhqorhsh@naver.com)](qldrhqorhsh@naver.com)
 
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center>
 <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
@@ -14,10 +15,10 @@
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />  
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
 </div>
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
 <div align=left><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
-[![GonoBae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)]
+![GonoBae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
 <!--Top Langs-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
   
