@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20GitHub&fontSize=80&desc=GonoBae)
-
+![header](https://capsule-render.vercel.app/api?text=capsule_render&animation=fadeIn)
 ### Hi there 👋 Here is What I'm Working On!!
 
 <!--
