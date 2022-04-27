@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20GitHub&fontSize=80&fontAlignY=10&desc=GonoBae&animation=twinkling)
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&customColorList=0,2,2,5,30&height=300&section=header&text=Welcome%20GitHub&fontSize=80&fontAlignY=50&desc=GonoBae&animation=twinkling)
 
 ### Hi there 👋 Here is What I'm Working On!!
 
