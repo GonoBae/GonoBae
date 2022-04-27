@@ -17,7 +17,6 @@
 </div>
 
 ### HHHH
-### HHH
 
 <div align=middle>
 <div align=middle><h1>📄 Study</h1></div>
