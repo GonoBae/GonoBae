@@ -19,10 +19,10 @@
 <div align=left><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
 <img align='left' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
-<img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
-![GonoBae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
 <!--Top Langs-->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
+<img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
+
+
   
 <div align=left><h1>📞 Contacts</h1></div>
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white", width = "150" height = "40"/></a>
