@@ -25,9 +25,9 @@
 <img align='' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true", width = 400, height = 300>
 <!--Top Langs-->
 <img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight", width = 400, height = 300>
-
+</div>
 
 <div align=middle><h1>📞 Contacts</h1></div>
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white", width = "150" height = "40"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white", width = "150" height = "40"/></a>
-</div>
+
