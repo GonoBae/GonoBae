@@ -15,7 +15,7 @@
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />  
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "100", height = "100">
 </div>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=사용자ID&show_icons=true&theme=radical)
+
 <div align=left><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
 ![GonoBae's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
