@@ -17,5 +17,5 @@
 
 ### Hi there 👋 Here is What I'm Working On!!
 
-![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=dracula&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=dracula)
+![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
