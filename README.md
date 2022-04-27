@@ -6,9 +6,10 @@
 
 <!--Badges-->
 ### activity
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-blueviolet?style=flat-square&logo=Medium&logoColor=white"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
-<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
+
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
