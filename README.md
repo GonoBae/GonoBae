@@ -6,10 +6,10 @@
 
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
-<img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "65" height = "65">
+<img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "90" height = "65">
 <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white", width = "65", height = "65">
 
 <!--Git Stats--><img align='middle' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
 <!--Top Lans--><img align='middle' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
