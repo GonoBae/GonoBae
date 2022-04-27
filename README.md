@@ -11,9 +11,9 @@
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/Unity-critical?style=for-the-badge&logo=Unity&logoColor=white">
+<img src="https://img.shields.io/badge/C#-critical?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/C++-critical?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-critical?style=for-the-badge&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white">
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white">
 
 ### Hi there 👋 Here is What I'm Working On!!
 
