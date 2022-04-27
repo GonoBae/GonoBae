@@ -11,7 +11,7 @@
 ### Used  as the main
 <img src="https://img.shields.io/badge/Unity-critical?style=for-the-badge&logo=Unity&logoColor=white"></a> 
 ### Used at least once
-<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a> &nbsp 
 <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
 
 ### Hi there 👋 Here is What I'm Working On!!
