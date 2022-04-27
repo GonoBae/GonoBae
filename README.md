@@ -17,4 +17,4 @@
 
 ### Hi there 👋 Here is What I'm Working On!!
 
-![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&show_icons=true)
+![GonoBae's github stats](https://github-readme-stats.vercel.app/api?username=GonoBae&theme=dracula&show_icons=true)
