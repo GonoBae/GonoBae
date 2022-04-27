@@ -10,10 +10,10 @@
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-blueviolet?style=flat-square&logo=GitHub Pages&logoColor=white"/></a>
 ### Used  as the main
 <img src="https://img.shields.io/badge/Unity-critical?style=for-the-badge&logo=Unity&logoColor=white"></a> 
-<img src="https://img.shields.io/badge/c#-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/c#-critical?style=flat-square&logo=C&logoColor=white"/></a>
 ### Used at least once
-<img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c%2B%2B&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C&logoColor=white"/></a>
+<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=C&logoColor=white"/></a>
 
 ### Hi there 👋 Here is What I'm Working On!!
 
