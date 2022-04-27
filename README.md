@@ -19,11 +19,11 @@
 ### HHHH
 
 <div align=middle>
-<div align=middle><h1>📄 Study</h1>
+<div align=middle><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
 <img align='middle' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
 <!--Top Langs-->
-<img align='' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
+<img align='middle' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
 
   
 <div align=middle><h1>📞 Contacts</h1></div>
