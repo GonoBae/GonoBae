@@ -7,9 +7,8 @@
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white">
-<img src="https://img.shields.io/badge/CSharp-007396?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
-<img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white">
 
 <!--Git Stats--><img align='left' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
