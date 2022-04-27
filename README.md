@@ -17,7 +17,7 @@
 
 <div align=left><h1>📄 Study</h1></div>
 <!--GitHub Stats-->
-![GonoBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonoBae&show_icons=true&theme=tokyonight)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=username)](https://github.com/anuraghazra/github-readme-stats)
 <div align="center"> src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true"
   ![Stats]()
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight)
