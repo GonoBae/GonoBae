@@ -11,8 +11,8 @@
 <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
 <img src="https://img.shields.io/badge/C-339AF0?style=for-the-badge&logo=C&logoColor=white">
 
-<!--Git Stats--><img align='left' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
-<!--Top Lans--><img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
+<!--Git Stats--><img align='middle' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true">
+<!--Top Lans--><img align='middle' src="https://github-readme-stats.vercel.app/api/top-langs/?username=GonoBae&layout=compact&theme=tokyonight">
 
 <!--Hits-->
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/GonoBae&count_bg=%23099DD7&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
