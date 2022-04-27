@@ -11,7 +11,7 @@
 <div align=center><h1>📚 STACKS</h1></div>
 <div align=center> 
 <img src="https://img.shields.io/badge/Unity-critical?style=for-the-badge&logo=Unity&logoColor=white">
-<img src="https://img.shields.io/badge/C#-critical?style=for-the-badge&logo=C&logoColor=white">
+<img src="https://img.shields.io/badge/CSharp-critical?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C++-critical?style=for-the-badge&logo=C&logoColor=white">
 <img src="https://img.shields.io/badge/C-critical?style=for-the-badge&logo=C&logoColor=white">
 
