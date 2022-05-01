@@ -31,4 +31,5 @@
 <div align=middle><h1>✒️ Contacts</h1></div>
 <a href="https://medium.com/me/stories/public" target="_blank"><img src="https://img.shields.io/badge/MediumBlog-important?style=flat&logo=Medium&logoColor=white", width = "150" height = "40"/></a>
 <a href="https://gonobae.github.io/" target="_blank"><img src="https://img.shields.io/badge/GitHubPost-important?style=flat&logo=GitHub Pages&logoColor=white", width = "150" height = "40"/></a>
+<a href="https://www.youtube.com/watch?v=dwD6tOVq3Vw" target="_blank"><img src="https://img.shields.io/badge/Game_Portfolio-important?style=flat&logo=YouTube&logoColor=white", width = "150" height = "40"/></a>  
 </div>
