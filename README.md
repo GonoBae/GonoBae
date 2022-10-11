@@ -23,6 +23,7 @@
 
 <div align=middle><h1>💻 Study</h1></div>
 <div align=middle>
+![GonoBae's GitHub stats](https://github-readme-stats.vercel.app/api?username=GonoBae&count_private=true)
 <!--GitHub Stats-->
 <img align='' src="https://github-readme-stats.vercel.app/api?username=GonoBae&theme=tokyonight&show_icons=true", width = 400, height = 150>
 <!--Top Langs-->
