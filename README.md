@@ -11,7 +11,7 @@
 <div align=center><h1>⏳ STACKS</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/Unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
-  <img src="https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
+  <img src="https://img.shields.io/badge/Unreal-black?style=for-the-badge&logo=Unreal&logoColor=white", width = "150" height = "65">
   <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="icon" width="65" height="65" />
   <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
