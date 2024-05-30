@@ -8,7 +8,7 @@
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=qldrhqorhsh">
 
 
-<div align=center><h2>⏳ STACKS</h2></div>
+<div align=center><h1>⏳ STACKS</h1></div>
 <div align=center>
   <img src="https://img.shields.io/badge/unity-black?style=for-the-badge&logo=Unity&logoColor=white", width = "150" height = "65">
   <img src="https://img.shields.io/badge/unreal-black?style=for-the-badge&logo=Unreal Engine&logoColor=#0E1128", width = "150" height = "65"> <br>
